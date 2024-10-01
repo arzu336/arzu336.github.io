@@ -17,4 +17,10 @@ Bu proje, Süleyman Demirel Üniversitesi bilgisayar mühendisliği 3. sınıf �
 - **Font Awesome**: Sosyal medya ikonları için kullanılmıştır.
 - **JavaScript**: Dinamik işlevler için kullanılır.
   
+## Kurulum
 
+Projeyi yerel ortamınızda çalıştırmak için şu adımları takip edebilirsiniz:
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/arzu336/blog-proje.git
